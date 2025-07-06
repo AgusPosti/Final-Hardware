@@ -1,4 +1,6 @@
 baseURL = "https://agusposti.github.io/Final-Hardware/"
+canonifyURLs = true
+relativeURLs = false
 languageCode = 'es'
 title = 'Inicio'
 theme = 'book'
